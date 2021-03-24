@@ -2,6 +2,4 @@
 
 This is my hecca awesome website.
 
-Adding another change on the update-reademe branch.
-
-Updated locally.
+Updates made on master on Github before rebase
